@@ -1,4 +1,4 @@
-# Adminer image
+# phpmyadmin image
 
 ## How to use
 
@@ -8,4 +8,4 @@
 
 No extra setting are required
 
-When container is up, navigate your browser http://localhost:7000
+When container is up, navigate your browser http://localhost:6080
