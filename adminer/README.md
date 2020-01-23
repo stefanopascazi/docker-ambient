@@ -1,4 +1,4 @@
-# MySQL image
+# Adminer image
 
 ## How to use
 
